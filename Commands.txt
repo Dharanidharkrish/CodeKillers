@@ -1,0 +1,11 @@
+1)git log  
+     This command is used to list the version history for the current branch.
+2)git pull [Repository Link]  
+      This command fetches and merges changes on the remote server to your working directory.
+3)git show [commit]  
+      This command shows the metadata and content changes of the specified commit.
+4)git tag [commitID]  
+      This command is used to give tags to the specified commit.
+5)git branch  
+      This command lists all the local branches in the current repository.
+
