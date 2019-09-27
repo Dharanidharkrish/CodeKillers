@@ -3,4 +3,9 @@ git config –global user.email “[email address]”
 git init [repository name]
 git commit -m “[ Type in the commit message]”  
 git clone [url] 
+git clone [url]
+git config –global user.email “[email address]” 
+git branch
+git status
+git pull
    
