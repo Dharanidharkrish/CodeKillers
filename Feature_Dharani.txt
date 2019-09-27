@@ -1,0 +1,1 @@
+git clone -- For cloning the remote repo to local machine.
